@@ -49,7 +49,7 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
    * ...
 * [Setting Screen]
    * User can edit home and work address
-   USer can choose what data privacy to share
+   User can choose what data privacy to share
    User can edit email
    User can edit phone number
    User can view legal document
@@ -59,15 +59,20 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 ## 3. Navigation
 **Tab Navigation** (Tab to Screen)
 
- * 
- * [fill out your second tab]
- * [fill out your third tab]
+ * Search
+ * Map
+ * Profile
+ * Settings
 
 **Flow Navigation** (Screen to Screen)
 
- * [list first screen here]
-   * [list screen navigation here]
+ * Forced Login -> Account creation/registration if no login available
    * ...
- * [list second screen here]
-   * [list screen navigation here]
+ * Search -> Opens listview of restaurants and deals
+   * ...
+ * Map -> gives mapview of restaurants
+   * ...
+ * Profile -> gives favorites, allows profile to be edited
+   * ...
+ * Settings -> toggle settings
    * ...
