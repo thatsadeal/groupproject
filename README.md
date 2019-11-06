@@ -60,8 +60,8 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 
  * Search
  * Map
- * Profile
- * Settings
+ * Account Settings
+ * Favorites
 
 **Flow Navigation** (Screen to Screen)
 
