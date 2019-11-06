@@ -67,18 +67,19 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 **Flow Navigation** (Screen to Screen)
 
  * Forced Login -> Account creation/registration if no login available
-   * ...
+  
  * Search -> Opens listview of restaurants and deals
-   * ...
+   
  * Map -> gives mapview of restaurants
-   * ...
+   
  * Profile -> gives favorites, allows profile to be edited
-   * ...
+  
  * Settings -> toggle settings
-   * ...
+  
 <img src="https://github.com/thatsadeal/groupproject/blob/master/LowFiWireframe.jpg"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/login.png"/>
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.38%20PM.png"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.00%20PM.png"/>
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.10%20PM.png"/>
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.19%20PM.png"/>
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.26%20PM.png"/>
-<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.00%20PM.png"/>
