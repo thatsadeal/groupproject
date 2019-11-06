@@ -8,20 +8,20 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 **Required Must-have Stories**
 
  * User need the ability to login
- *User need the ability to create account.
- *User need the ability to search resturant.
- *User need the ability to bookmark deal.
- *User need the ability to search deals.
- *User need the ability to select food deliver service.
- *User need the ability to map direction.
- *User need the ability to browse resturant.
- *User need the ability to (Favorite) push notification.
- * ...
+ * User need the ability to create account.
+ * User need the ability to search resturant.
+ * User need the ability to bookmark deal.
+ * User need the ability to search deals.
+ * User need the ability to select food deliver service.
+ * User need the ability to map direction.
+ * User need the ability to browse resturant.
+ *  User need the ability to (Favorite) push notification.
+
 **Optional Nice-to-have Stories**
 
  * User can add push notification.
  * User can add Yelp API.
- * ...
+ 
 
 ## 2. Screen Archetypes
 
@@ -76,4 +76,9 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
    * ...
  * Settings -> toggle settings
    * ...
+<img src="https://github.com/thatsadeal/groupproject/blob/master/LowFiWireframe.jpg"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.38%20PM.png"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.10%20PM.png"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.19%20PM.png"/>
+<img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.26%20PM.png"/>
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.00%20PM.png"/>
