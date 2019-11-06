@@ -43,8 +43,8 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
    * User can click hover over deals, resturant, and address
   
 * [Profile Screen]
-  *User can view saved bookmark.
-  *User can edit Profile information
+  * User can view saved bookmark.
+  * User can edit Profile information
   
 * [Setting Screen]
    * User can edit home and work address
