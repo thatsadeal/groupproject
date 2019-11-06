@@ -10,7 +10,7 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
  * User need the ability to login
  * User need the ability to create account.
  * User need the ability to search resturant.
- * User need the ability to bookmark deal.
+ * User need the ability to edit account settings.
  * User need the ability to search deals.
  * User need the ability to select food deliver service.
  * User need the ability to map direction.
@@ -27,26 +27,25 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 
  * [Login Screen]
    * User can login
-   * ...
+   
  * [Registration Screen]
    * User can create new account
-   * ...
+   
  * [listView Screen]
    * User can view list of resturant
-   * ...
+   
  * [MapView Screen]
    * User can find exactly location of resturant and get direction
-   * ...
+   
  * [Detail Screen]
    * User can scroll 
-   *User can click on to Yelp to add review
-   *User can click hover over deals, resturant, and address
-   * ...
+   * User can click on to Yelp to add review
+   * User can click hover over deals, resturant, and address
+  
 * [Profile Screen]
   *User can view saved bookmark.
   *User can edit Profile information
   
-   * ...
 * [Setting Screen]
    * User can edit home and work address
    User can choose what data privacy to share
@@ -55,7 +54,7 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
    User can view legal document
    User can logout app
 
-   * ...
+ 
 ## 3. Navigation
 **Tab Navigation** (Tab to Screen)
 
