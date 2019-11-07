@@ -84,36 +84,36 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 <img src="https://github.com/thatsadeal/groupproject/blob/master/Screen%20Shot%202019-11-06%20at%206.21.26%20PM.png"/>
 
 User
-Property|Type|Description|
----|---|---|
-fName|String|User first name 
-lName|String|User last name
-bDay|String|User birthday
-phoneNum|String|User phone number
-email|String|User email
-unameID|String|Unique id for user 
-password|String|User password 
+|Property|Type|Description|
+|---|---|---|
+|fName|String|User first name| 
+|lName|String|User last name|
+|bDay|String|User birthday|
+|phoneNum|String|User phone number|
+|email|String|User email|
+|unameID|String|Unique id for user| 
+|password|String|User password| 
 
 Restaurant 
-Property|Type|Description|
----|---|---|
-rName|String|Name of restaurant 
-rAddress|String|Restaurant address
-rHours|DateTime|Business Hours
-rID|String|Unique id for restaurant 
+|Property|Type|Description|
+|---|---|---|
+|rName|String|Name of restaurant| 
+|rAddress|String|Restaurant address|
+|rHours|DateTime|Business Hours|
+|rID|String|Unique id for restaurant| 
 
 Deals 
-Property|Type|Description|
----|---|---|
-dealID|String|Unique id for deal
-dealName|String|Name of deal 
-dealStart|DateTime|Deal start time 
-dealEnd|DateTime|Deal end time 
-rID|Pointer to another parse object|Foreign key of restaurant id
+|Property|Type|Description|
+|---|---|---|
+|dealID|String|Unique id for deal|
+|dealName|String|Name of deal| 
+|dealStart|DateTime|Deal start time| 
+|dealEnd|DateTime|Deal end time| 
+|rID|Pointer to another parse object|Foreign key of restaurant id|
 
 Save Deal 
-Property|Type|Description|
----|---|---|
-unameID|Pointer to another Parse object|Username saved deal (Foreign key)
-dealID|Pointer to another Parse object|Saved deal (Foreign key)
+|Property|Type|Description|
+|---|---|---|
+|unameID|Pointer to another Parse object|Username saved deal (Foreign key)|
+|dealID|Pointer to another Parse object|Saved deal (Foreign key)|
 
