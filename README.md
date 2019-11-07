@@ -121,14 +121,13 @@ Saved Deal
 |unameID|Pointer to another Parse object|Username saved deal (Foreign key)|
 |dealID|Pointer to another Parse object|Saved deal (Foreign key)|
 
-
-*Login View Screen
- *(Read/GET)
-*Registration View Screen
- *(Create/POST)
-*Favorite View
-  *(Read/GET)
-*Restaurant View
-  *(Read/GET)
-*Setting View  
-  *(Update/POST)
+* Login View Screen
+  * (Read/GET)
+* Registration View Screen
+  * (Create/POST)
+* Favorite View
+  * (Read/GET)
+* Restaurant View
+  * (Read/GET) 
+* Setting View  
+  * (Update/POST)
