@@ -7,8 +7,8 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 
 **Required Must-have Stories**
 
-~~ * User need the ability to login ~~
-~~ * User need the ability to create account.~~
+ ~~* User need the ability to login.~~
+ ~~* User need the ability to create account.~~
  * User need the ability to search resturant.
  * User need the ability to edit account settings.
  * User need the ability to search deals.
