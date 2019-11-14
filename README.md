@@ -133,5 +133,5 @@ Saved Deal
 * Setting View  
   * (Update/POST)
 
-Milestong #1 Gif
+
 ![](milestone_1.gif)
