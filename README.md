@@ -135,3 +135,5 @@ Saved Deal
 
 
 ![](milestone_1.gif)
+
+![](milestone_2.gif)
